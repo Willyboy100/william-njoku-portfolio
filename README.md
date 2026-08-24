@@ -1,123 +1,186 @@
-# AI AUTOMATION ENGINEER
-AI Agents · Workflow Orchestration · APIs · Business Automation
+# William Njoku
+
+### AI Automation Engineer | AI Agents · LLM Systems · Workflow Orchestration
+
+I build AI-powered systems that connect **LLMs, APIs, business applications, and data** to automate complex, multi-step processes.
+
+My work focuses on turning manual workflows into reliable systems using **AI agents, structured outputs, API integrations, conditional logic, validation, and automated execution**.
+
+My background in product analytics and business systems also helps me approach automation from both the **technical and business perspective**.
+
 ---
-# 👋 Hi, I'm William Njoku
 
-I build AI-powered workflows and automation systems that connect LLMs, APIs, business tools, and data to automate complex processes.
+## What I Build
 
-My focus is on turning repetitive, multi-step workflows into reliable systems with structured AI outputs, conditional logic, integrations, and automated execution.
-
-I enjoy designing workflow automations, integrating APIs, developing Python-based solutions, and creating analytics dashboards that help businesses operate more efficiently. My experience spans AI automation, CRM implementation, business intelligence, and process optimization.
-
-### 🚀 What I work with
-
-* Python
-* AI Automation
-* Make.com & n8n
-* SQL
-* Power BI
-* REST APIs
-* Git & GitHub
-* CRM Platforms (Freshworks, HubSpot, Zoho)
-
-### 📌 What I Build
-
-* AI-powered workflows
-* Agentic automation systems
+* AI-powered agents and decision systems
 * LLM + API integrations
 * Multi-step workflow orchestration
-* Structured AI decision pipelines
-* Automation with validation and error handling
-
-I'm always exploring new AI technologies and building solutions that solve real business problems through automation and data.
-
-**Let's connect and build something impactful.**
-
+* Structured AI output pipelines
+* Automated lead qualification systems
+* AI-powered sales and outreach workflows
+* CRM and business process automation
+* Data-driven operational systems
 
 ---
 
-# TECHNICAL STACK
+## Technical Stack
 
-AI & LLMs
-Claude · OpenAI · Groq · Prompt Engineering · Structured Outputs
+**AI & LLMs**
 
-Automation & Orchestration
-n8n · Make · Workflow Design · Conditional Logic · Webhooks
+`OpenAI` · `Claude` · `Groq` · `Prompt Engineering` · `Structured Outputs`
 
-Integrations
-REST APIs · JSON · Airtable · CRM Systems
+**Automation & Orchestration**
 
-Development & Data
-Python · SQL · Git/GitHub
+`n8n` · `Make.com` · `Webhooks` · `Workflow Design` · `Conditional Logic`
 
-Business Systems
-HubSpot · Freshworks · Zoho · Power BI
+**Development**
+
+`Python` · `SQL` · `REST APIs` · `JSON` · `Git` · `GitHub`
+
+**Data & Business Systems**
+
+`Airtable` · `HubSpot` · `Freshworks` · `Zoho` · `Power BI`
 
 ---
 
-# MY PROJECTS 
-*Check out some of the projects I've been working on.* 😁
+# Featured Projects
 
-**RWA Inc — AI Message Drafter**
-![image](AI Message Drafter.png)
-An AI-powered outbound messaging automation workflow built with n8n, Airtable, and LLM orchestration as part of the RWA Inc Autonomous Outbound System.
-The workflow automates the transition from a qualified prospect record to structured, personalized outreach messages while maintaining lead context, qualification logic, and processing state.
+## 01 — Autonomous AI Outreach System
 
-Documentation: [Read More](https://docs.google.com/document/d/1trN7DybOa215AEq32HHpfE_b--StXX1sgw3Z3XM9GP8/edit?usp=sharing)
+**AI Automation Engineering · n8n · Airtable · LLM APIs**
 
-Demo clip: [Check here](https://www.linkedin.com/posts/activity-7495582971958128640-ZjLZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-1MIMBskxuJA86RKfxfpX_fFbhc-ELA3o) 
+An AI-powered workflow designed to automate personalized outbound messaging from qualified prospect data.
 
-**Autonomous AI Outreach System
-AI Message Generation & Outreach Orchestration — built for RWA Inc.**
-AI Automation Engineering | n8n · Airtable · LLM APIs
-![image](Workflow 2 - Message Generation workflow (Rebuilt).png)
-Designed and implemented the AI-powered orchestration layer responsible for qualification gating, lead retrieval, LLM message generation, structured-output validation, channel routing, persistence, and completion state.
+### System responsibilities
 
-Documentation: [Read More](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing) 
+* Lead qualification gating
+* Prospect context retrieval
+* LLM-powered message generation
+* Structured output validation
+* Channel-specific routing
+* Workflow state management
+* Data persistence
+* Completion tracking
 
-**CRM-Customer Support Automation**
-![image](Screenshot 2026-05-13 000219.png) 
-Designed and implemented a customer support ticket automation workflow using Make.com, Airtable, Gmail, and Slack to streamline ticket routing, customer communication, and internal support operations.
-For full documentation.
+### Architecture
 
-Documentation: [Read More](https://docs.google.com/document/d/1UOj_r8OkzTtBSi95QLr2KXgx-cRPfahOIkdDlCtoqe8/edit?usp=sharing) 
+```text
+Qualified Lead
+      ↓
+Qualification Gate
+      ↓
+Context Retrieval
+      ↓
+LLM Message Generation
+      ↓
+Structured Output
+      ↓
+Validation
+      ↓
+Channel Routing
+      ↓
+CRM / Airtable
+      ↓
+Completion State
+```
 
+[View project documentation](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing)
 
-**AI-powered call assistant workflow integrated with Vapi and automation tools.**
-![image](Screenshot 2026-05-09 025233.png) 
-Designed and implemented an automated lead qualification and customer communication workflow using Make.com, Airtable, Vapi AI, Gmail, Slack, and CRM-based processes.
-The system automates outbound lead engagement, internal notifications, and CRM updates to improve operational efficiency and lead tracking.
+---
 
-Documentation: [Read More](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI9uMnxdvz6wiLt5kJQoL2NZOI9A/edit?usp=sharing) 
+## 02 — AI Message Drafter
 
+**n8n · Airtable · LLM Orchestration**
 
-## CONTACT DETAILS
+An AI-powered outbound messaging system that transforms qualified prospect records into structured and personalized outreach messages.
 
-*Let’s connect and see how we can make a difference together!*
-<table>
-  <tbody>
-    <tr>
-      <td>📧</td>
-      <td><a href="mailto:Williamnjoku007@gmail.com">Williamnjoku007@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 903-274-6686, 09133806099</td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Lagos, Nigeria</td>
-    </tr>
-    <tr>
-      <td>⬇️</td>
-      <td><a href="William Njoku Resume Automation Engineer.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/william-njoku-143b51259">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-    <td>🌐</td>
-      <td><a href="https://x.com/Willyboy011">You can find me on X</a></td> 
-    </tr>
-    <tr>
+The system maintains lead context and processing state while using LLMs to generate channel-specific messaging.
+
+[View documentation](https://docs.google.com/document/d/1trN7DybOa215AEq32HHpfE_b--StXX1sgw3Z3XM9GP8/edit?usp=sharing)
+
+[View demo](https://www.linkedin.com/posts/activity-7495582971958128640-ZjLZ)
+
+---
+
+## 03 — AI Customer Support Automation
+
+**Make.com · Airtable · Gmail · Slack**
+
+An automated customer support workflow designed to streamline ticket routing, customer communication, and internal support operations.
+
+### Workflow capabilities
+
+* Ticket intake
+* Automated routing
+* Customer communication
+* Internal notifications
+* Status tracking
+* CRM/data updates
+
+[View documentation](https://docs.google.com/document/d/1UOj_r8OkzTtBSi95QLr2KXgx-cRPfahOIkdDlCtoqe8/edit?usp=sharing)
+
+---
+
+## 04 — AI Voice Lead Qualification System
+
+**Vapi · Make.com · Airtable · Gmail · Slack**
+
+An AI-powered voice workflow designed to automate lead engagement and qualification.
+
+The system connects voice AI with business automation tools to manage lead interactions, notifications, and CRM updates.
+
+[View documentation](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI9uMnxdvz6wiLt5kJQoL2NZOI9A/edit?usp=sharing)
+
+---
+
+# Engineering Focus
+
+I'm particularly interested in building reliable AI systems around:
+
+* LLM orchestration
+* Agentic workflows
+* Structured outputs
+* API integration
+* Workflow state management
+* Validation and error handling
+* AI evaluation
+* Human-in-the-loop systems
+* Automation reliability
+* AI applied to real-world processes
+
+---
+
+# Currently Learning
+
+* AI agent architectures
+* LLM evaluation
+* RAG systems
+* Python-based AI applications
+* Reliable AI workflow design
+* Multi-agent systems
+
+---
+
+# Experience
+
+**AI Automation Engineer — RWA Inc**
+
+Building AI-powered automation systems involving LLMs, workflow orchestration, APIs, CRM systems, and structured business processes.
+
+My work includes AI-assisted outreach, lead qualification, workflow orchestration, and automated decision pipelines.
+
+---
+
+# Connect
+
+**LinkedIn:** [William Njoku](https://linkedin.com/in/william-njoku-143b51259)
+
+**X:** [@Willyboy011](https://x.com/Willyboy011)
+
+**Email:** [Williamnjoku007@gmail.com](mailto:Williamnjoku007@gmail.com)
+
+**Location:** Lagos, Nigeria
+
+---
+
+### Building practical AI systems that turn complex workflows into reliable automation.
