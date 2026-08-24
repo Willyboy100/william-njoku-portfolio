@@ -76,6 +76,10 @@ The system automates these steps while keeping structured data and workflow stat
                 ┌─────────────────┐
                 │ Completion State│
                 └─────────────────┘
+
+### Actual Workflow
+
+![Autonomous AI Outreach Workflow](architecture.png)
 ```
 
 ---
