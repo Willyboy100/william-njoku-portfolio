@@ -150,7 +150,7 @@ I'm particularly interested in building reliable AI systems around:
 
 ---
 
-# Currently Learning
+# Current Focus
 
 * AI agent architectures
 * LLM evaluation
