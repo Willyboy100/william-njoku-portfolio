@@ -172,12 +172,15 @@ Building AI-powered automation systems involving LLMs, workflow orchestration, A
 
 My work includes AI-assisted outreach, lead qualification, workflow orchestration, and automated decision pipelines.
 
+---
+
 ## Results
 
 - Reduced manual outreach preparation by ~80%
 - Generated personalized messages automatically
 - Automated CRM status updates
 - Eliminated repetitive lead qualification tasks
+
 ---
 
 # Connect
