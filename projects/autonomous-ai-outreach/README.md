@@ -79,10 +79,13 @@ The system automates these steps while keeping structured data and workflow stat
 
 
 ```
+
 ---
+
 ### Actual Workflow
 
 ![Autonomous AI Outreach Workflow](architecture.png)
+
 ---
 
 ## Core Components
