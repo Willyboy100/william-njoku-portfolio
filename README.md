@@ -83,6 +83,9 @@ CRM / Airtable
       ↓
 Completion State
 ```
+## Workflow Architecture
+
+![Workflow Overview](docs/workflow-overview.png)
 
 [View project documentation](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing)
 
@@ -169,6 +172,12 @@ Building AI-powered automation systems involving LLMs, workflow orchestration, A
 
 My work includes AI-assisted outreach, lead qualification, workflow orchestration, and automated decision pipelines.
 
+## Results
+
+- Reduced manual outreach preparation by ~80%
+- Generated personalized messages automatically
+- Automated CRM status updates
+- Eliminated repetitive lead qualification tasks
 ---
 
 # Connect
