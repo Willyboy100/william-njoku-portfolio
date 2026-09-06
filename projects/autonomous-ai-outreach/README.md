@@ -252,6 +252,15 @@ The surrounding architecture—validation, state management, deterministic logic
 
 ---
 
+## Results
+
+- Reduced manual outreach preparation by ~80%
+- Generated personalized messages automatically
+- Automated CRM status updates
+- Eliminated repetitive lead qualification tasks
+
+---
+
 ## Author
 
 **William Njoku**
