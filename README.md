@@ -83,6 +83,7 @@ CRM / Airtable
       ↓
 Completion State
 ```
+---
 ## Workflow Architecture
 
 ![Workflow Overview](docs/workflow-overview.png)
