@@ -100,6 +100,11 @@ An AI-powered outbound messaging system that transforms qualified prospect recor
 
 The system maintains lead context and processing state while using LLMs to generate channel-specific messaging.
 
+---
+## Workflow Architecture
+
+![Workflow Overview]()
+---
 [View documentation](https://docs.google.com/document/d/1trN7DybOa215AEq32HHpfE_b--StXX1sgw3Z3XM9GP8/edit?usp=sharing)
 
 [View demo](https://www.linkedin.com/posts/activity-7495582971958128640-ZjLZ)
