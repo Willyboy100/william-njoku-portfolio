@@ -103,7 +103,7 @@ The system maintains lead context and processing state while using LLMs to gener
 ---
 ## Workflow Architecture
 
-![Workflow Overview]()
+![Workflow Overview](workflow-overview.png)
 ---
 [View documentation](https://docs.google.com/document/d/1trN7DybOa215AEq32HHpfE_b--StXX1sgw3Z3XM9GP8/edit?usp=sharing)
 
