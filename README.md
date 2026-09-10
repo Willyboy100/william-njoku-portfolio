@@ -88,6 +88,8 @@ Completion State
 
 ![Workflow Overview](workflow-overview.png.png)
 
+---
+
 [View project documentation](https://docs.google.com/document/d/1Bpl2MSHgduL5cA4ChKPdKrcakBZjd3221HWEwmqH-Ak/edit?usp=sharing)
 
 ---
