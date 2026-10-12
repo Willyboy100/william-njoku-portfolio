@@ -119,6 +119,7 @@ The system maintains lead context and processing state while using LLMs to gener
 
 An automated customer support workflow designed to streamline ticket routing, customer communication, and internal support operations.
 
+---
 ### Workflow capabilities
 
 * Ticket intake
