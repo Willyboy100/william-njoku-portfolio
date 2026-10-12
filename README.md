@@ -113,7 +113,7 @@ The system maintains lead context and processing state while using LLMs to gener
 
 ---
 
-## 03 — AI Customer Support Automation
+## 03 — Customer Support Automation
 
 **Make.com · Airtable · Gmail · Slack**
 
