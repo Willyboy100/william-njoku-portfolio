@@ -129,7 +129,7 @@ An automated customer support workflow designed to streamline ticket routing, cu
 * CRM/data updates
 
 ## Worflow Architecture
-![Make customer support workflow overview](docs/workflow-overview.png)
+![Make customer support workflow overview](makeworkflow-overview.png.png)
 
 [View documentation](https://docs.google.com/document/d/1UOj_r8OkzTtBSi95QLr2KXgx-cRPfahOIkdDlCtoqe8/edit?usp=sharing)
 
