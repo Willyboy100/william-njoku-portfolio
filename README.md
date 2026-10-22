@@ -144,6 +144,8 @@ An AI-powered voice workflow designed to automate lead engagement and qualificat
 
 The system connects voice AI with business automation tools to manage lead interactions, notifications, and CRM updates.
 
+## Worflow Architecture
+
 [View documentation](https://docs.google.com/document/d/1e2m5u_2qGY1WVNipI9uMnxdvz6wiLt5kJQoL2NZOI9A/edit?usp=sharing)
 
 ---
