@@ -39,7 +39,7 @@ My background in product analytics and business systems also helps me approach a
 
 **Data & Business Systems**
 
-`Airtable` · `HubSpot` · `Freshworks` · `Zoho` · `Power BI`
+`Airtable` · `HubSpot` · `Freshworks` · `Zoho` · `Power BI` · `Microsoft Excel` 
 
 ---
 
